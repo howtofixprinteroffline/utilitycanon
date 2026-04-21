@@ -8,7 +8,9 @@ author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
-
+html_js_files = [
+    'https://code.jivosite.com/widget/cTI6R8IfQH'
+]
 # -- General configuration
 
 extensions = [
